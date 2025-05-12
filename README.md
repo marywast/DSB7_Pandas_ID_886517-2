@@ -116,7 +116,7 @@ be a week full of Pandas exercises. Pandas is one of the most popular and useful
 in the field. You will love it too!
 
 In this exercise, you will need to load the [log file](https://drive.google.com/file/d/1kgByP3EZHL8xAm-oGaBpf0-fPdVIYRaY/view) (put it in the directory `data` in the
-root directory of the day) into a dataframe, change the delimiter, and save it to another
+src directory of the day) into a dataframe, change the delimiter, and save it to another
 file.
 
 The task is:
