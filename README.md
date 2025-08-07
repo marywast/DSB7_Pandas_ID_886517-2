@@ -345,7 +345,7 @@ enrich our initial dataset.
   * concatenate the series with the dataframe and name it `fines`
 * enrich the dataframe with the data from another dataframe
   * create a new dataframe with the car numbers and their owners
-      * get the most popular surnames (**you can find the file [surname.json](datasets/surname.json) in the attachments**) in the US
+      * get the most popular surnames (**you can find the file [surname.json](datasets/surname.json) in the folder datasets**) in the US
       * create a new series with the surnames (they should not have
       special characters like commas, brackets, etc.) from the data you gathered, the count
       should be equal to the number of unique car numbers using the sample
