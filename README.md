@@ -402,7 +402,7 @@ using the magic command `%%timeit` in the cell
   * again, get a row for the same `CarNumber`
 * downcasting:
   * run `df.info(memory_usage=’deep’)`, pay attention to the `Dtype` and the memory usage
-  * make a `copy()` of your initial dataframe into another dataframe `optimized`
+  * make a `copy()` of your initial dataframe into another dataframe `optimized_df`
   * downcast from `float64` to `float32` for all the columns
   * downcast from `int64` to the smallest numerical dtype possible
   * run `info(memory_usage='deep')` for your new dataframe, pay attention to the Dtype and the memory usage
