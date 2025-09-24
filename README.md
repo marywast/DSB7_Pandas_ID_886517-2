@@ -101,7 +101,7 @@ The result of `read_csv` should be as follows:
 In [3]: df.head()
 Out[3]:
 user
-datetime
+date_time
 2020-04-17 12:01:08.463179 artem
 2020-04-17 12:01:23.743946 artem
 2020-04-17 12:35:52.735016 artem
@@ -111,7 +111,7 @@ datetime
 In [4]: df.tail()
 Out[4]:
 user
-datetime
+date_time
 2020-05-21 16:36:40.915488 ekaterina
 2020-05-21 17:49:36.429237 maxim
 2020-05-21 18:45:20.441142 valentina
